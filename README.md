@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=petarisakovic&show_icons=true&locale=en&layout=compact" alt="petarisakovic" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=petarisakovic&show_icons=true&locale=en" alt="petarisakovic" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=petarisakovic&" alt="petarisakovic" /></p>
