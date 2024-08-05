@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Petar</h1>
-<h3 align="center">An enthusiastic full stack developer from Canada.</h3>
+<h3 align="center">An enthusiastic full stack developer @UWaterloo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petarisakovic&label=Profile%20views&color=0e75b6&style=flat" alt="petarisakovic" /> </p>
 
