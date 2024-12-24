@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://petarisakovic.ca/](https://petarisakovic.ca/)
 
-- 📫 How to reach me **p2isakov@uwaterloo.ca**
+- 📫 How to reach me **petar.isakovic@uwaterloo.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
