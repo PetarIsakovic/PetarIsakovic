@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petarisakovic&label=Profile%20views&color=0e75b6&style=flat" alt="petarisakovic" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://petarisakovic.ca/](https://petarisakovic.ca/)
+- 👨‍💻 All of my projects are available at [https://petarisakovic.ca](https://petarisakovic.ca)
 
 - 📫 How to reach me **petar.isakovic@uwaterloo.ca**
 
