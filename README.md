@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Petar</h1>
+<h1 align="center">👋 I'm Petar</h1>
 <h3 align="center">A first-year software engineering student at the University of Waterloo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petarisakovic&label=Profile%20views&color=0e75b6&style=flat" alt="petarisakovic" /> </p>
