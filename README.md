@@ -1,5 +1,5 @@
 <h1 align="center">👋 I'm Petar</h1>
-<h3 align="center">A first-year software engineering student at the University of Waterloo</h3>
+<h3 align="center">A software engineering student at the University of Waterloo</h3>
 
 - 👨‍💻 All of my projects are available at [https://petarisakovic.ca](https://petarisakovic.ca)
 
