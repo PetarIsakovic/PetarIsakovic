@@ -5,6 +5,10 @@
 
 - 📫 How to reach me **petar.isakovic@uwaterloo.ca**
 
+<p>Hi, I’m Petar, a first-year Software Engineering student at the University of Waterloo, currently seeking summer 2025 internships. I’m passionate about blending creativity and technology to build impactful projects using Java, C, C++, JavaScript & HTML/CSS.
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/petar-isakovic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="petar-isakovic-02b106194/" height="30" width="40" /></a>
