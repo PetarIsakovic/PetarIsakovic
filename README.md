@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **petar.isakovic@uwaterloo.ca**
 
-<p>Hi, I’m Petar, a first-year Software Engineering student at the University of Waterloo, currently seeking summer 2025 internships. I’m passionate about blending creativity and technology to build impactful projects using Java, C#, C, C++, JavaScript & HTML/CSS.
+<p>Hi, I’m Petar, a second-year Software Engineering student at the University of Waterloo, I’m passionate about blending creativity and technology to build impactful projects using Java, C#, C, C++, JavaScript & HTML/CSS.
 </p>
 
 
