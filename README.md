@@ -17,7 +17,7 @@ Passionate about building things that blend creativity with code.
 ### 🧠 About Me
 
 - 🎓 2nd-year Software Engineering student at **University of Waterloo**  
-- 🌱 Currently exploring game dev (Unity, C#) and AI integrations  
+- 🌱 Currently exploring game dev (Unity, C#)  
 - 🛠️ Comfortable with `Java`, `C#`, `C++`, `JavaScript`, `HTML/CSS`, and `Python`  
 - ✨ I love turning creative ideas into real, working apps  
 - 🚀 Open to internships, collabs, or cool side projects  
