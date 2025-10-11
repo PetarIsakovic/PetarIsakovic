@@ -1,4 +1,4 @@
-👋 Hey, I’m Petar — a Software Engineering student at the University of Waterloo.
+👋 Hey, I’m Petar, a Software Engineering student at the University of Waterloo.
 
 Here are a few distinctions I’ve been fortunate to receive:
 - Scotiabank Software Engineering Scholarship ($15,000)
