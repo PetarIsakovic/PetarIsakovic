@@ -1,29 +1,12 @@
-<!-- GitHub Profile README for Petar Isakovic -->
+👋 Hey, I’m Petar — a Software Engineering student at the University of Waterloo.
 
-<div align="center">
+Here are a few distinctions I’ve been fortunate to receive:
+- Scotiabank Software Engineering Scholarship ($15,000)
+- President’s Scholarship of Distinction ($2,000)
+- 1st Place @ Hack404 ($1,000)
+- Carter Family Award ($250)
+- 1st Place @ Hackamental ($100)
+- Governor General’s Bronze Academic Medal
 
-# 👋 Hey, I'm Petar Isakovic  
-### 💻 Software Engineering @ University of Waterloo  
-Seeking Winter 2026 Internships
-
-[![Website](https://img.shields.io/badge/Portfolio-petarisakovic.ca-1f425f?style=flat-square&logo=google-chrome)](https://petarisakovic.ca)
-[![Email](https://img.shields.io/badge/Email-petar.isakovic@uwaterloo.ca-informational?style=flat-square&logo=gmail)](mailto:petar.isakovic@uwaterloo.ca)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-petar--isakovic-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/petar-isakovic)
-
-</div>
-
----
-
-### 🧠 About Me
-
-- 🎓 2nd-year Software Engineering student at **University of Waterloo**  
-- 🛠️ Comfortable with full-stack dev using:  
-  `Java`, `C`, `C++`, `Python`, `JavaScript`, `TypeScript`, `React`, `Node.js`, `React Native`, `Expo`, `Firebase`, `C#`, and `Unity`  
----
-
-### 🤝 Let’s Connect
-
-Feel free to reach out, collaborate, or just say hi!  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/petar-isakovic)
-[![Email](https://img.shields.io/badge/Email-Send%20a%20Message-informational?style=for-the-badge&logo=gmail)](mailto:petar.isakovic@uwaterloo.ca)
+Check out my website for more:  
+👉 [petarisakovic.ca](https://petarisakovic.ca)
